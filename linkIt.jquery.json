@@ -1,0 +1,33 @@
+{
+    "name": "LinkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Elements to link elements",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Varchasvi",
+        "url": "https://varchasvipandey.com"
+    },
+    "maintainers": [
+        {
+            "name": "Varchasvi",
+            "email": "varchasvip@gmail.com",
+            "url": "http://github.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/varchasvipandey/jquery.linkit"
+        }
+    ],
+    "homepage": "https://github.com/varchasvipandey/jquery.linkit",
+    "docs": "https://github.com/varchasvipandey/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}

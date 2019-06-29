@@ -3,10 +3,14 @@
 **LinkIt** is a simple jQuery plugin to attach links to elements.
 
 ##Version##
-0.1.0
+0.2.0
 
 ##Usage##
-    <script></script>
+    $("span").linkIt({
+                href: "http://test.com",
+                target: "_blank",
+                text: "Click me"
+            });
 
 ##Vendors##
 jQuery - [http://jquery.com](http://jquery.com)
